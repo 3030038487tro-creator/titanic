@@ -1,9 +1,22 @@
 # GEOL0069_Week4
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Back to top link -->
+<a name="readme-top"></a>
 
-The task for the week 4 assignment in GEOL0069 Artificial Intelligence for Earth Observation is to use unsupervised learning methods for altimetry classification and in particular, distinguishing between sea ice and leads in Sentinel-3 altimetry datasets. The _week4_assignment.ipynb_ notebook linked to this Github builds on the notebook called _Chapter1_Unsupervised_Learning_Methods_Michel.ipynb_.
+<br />
+<div align="center">
+  <a href="https://github.com/affan1317/sea-ice-and-lead-unsupervised-learning">
+    <img src="Logo.png" alt="Logo" width="800" height="500">
+  </a>
+  
+  <h3 align="center">Sea-ice and lead unsupervised classification</h3>
+
+  <p align="justify">
+    This repository contains the Week 4 assignment for the GEOL0069 Artificial Intelligence for Earth Observation module at UCL. The project focuses on using unsupervised learning methods to discriminate between **sea ice** and **leads** (open water within sea ice) using Sentinel-3 altimetry data. 
+  </p>
+</div>
+
+<!-- GETTING STARTED -->
 
 ### Prerequisites
 
@@ -144,3 +157,15 @@ Below is a confusion matrix comparing the ESA official classification (flags) ag
 ![conf_mat](conf_mat.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+# Contact
+Shuyi Zheng - zczq923@ucl.ac.uk
+
+Project Link: [https://github.com/affan1317/sea-ice-and-lead-unsupervised-learning](https://github.com/affan1317/sea-ice-and-lead-unsupervised-learning)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+# Acknowledgments
+- This project is part of an assignment for module GEOL0069 taught in UCL Earth Sciences Department
