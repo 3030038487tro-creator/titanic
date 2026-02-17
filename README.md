@@ -161,7 +161,7 @@ plt.title('Gaussian Mixture Model')
 plt.show()
   ```
 
-![Gaussian Mixture Model](GMM.png)
+![Gaussian Mixture Model](Gaussian Mixture Model.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
