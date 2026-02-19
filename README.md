@@ -3,7 +3,6 @@
 <!-- Back to top link -->
 <a name="readme-top"></a>
 
-<br />
   <h3 align="center">Sea-ice and lead unsupervised classification</h3>
 
   <p align="justify">
